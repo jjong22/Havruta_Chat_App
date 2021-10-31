@@ -94,8 +94,8 @@
 
     <string name="ScheduleText">Schedule</string>
 
-    <string name="enter_mt_message_hint">Write a message…</string>
-    <string name="messageOptions">Message options</string>
+    <string name="enter_mt_message_hint">메세지를 입력해 주세요</string>
+    <string name="messageOptions">메세지 옵션</string>
     <string name="conversation">Conversation</string>
     <string name="conversation_options">Options</string>
     <string name="enter_support_query_hint">enter your queries, bug reporting or feedback here</string>

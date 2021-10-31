@@ -11,7 +11,7 @@ android {
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        buildConfigField "String", "APP_ID", '"213ee20657704e8d179211a7ff0656d8d"'
+        buildConfigField "String", "APP_ID", '"bdd641173e67e0e8b4b2c05578e43f9ejjo"'
     }
 
     buildTypes {

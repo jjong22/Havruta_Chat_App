@@ -116,11 +116,11 @@
     <string name="gallery">Gallery</string>
     <string name="camera_option">Camera</string>
     <string name="logout">로그아웃</string>
-    <string name="copy">Copy</string>
+    <string name="copy">복사</string>
     <string name="forward">Forward</string>
     <string name="resend">Resend</string>
-    <string name="delete">Delete</string>
-    <string name="info">Info</string>
+    <string name="delete">삭제</string>
+    <string name="info">정보</string>
     <string name="share">Share</string>
     <string name="reply">Reply</string>
     <string name="self_destruct">Self Destruct</string>
@@ -134,7 +134,7 @@
     <string name="Delete_conversation">Delete conversation</string>
     <string name="delete_group">Delete group</string>
     <string name="exit_group">Exit group</string>
-    <string name="message">Message</string>
+    <string name="message">메세지</string>
     <string name="remove">Remove</string>
     <string name="make_group_admin">Make group admin</string>
     <string name="take_photo">Take photo</string>
@@ -176,8 +176,8 @@
     <string name="today">오늘</string>
     <string name="kb45">45kb</string>
     <string name="message_text">Message Text</string>
-    <string name="read">Read</string>
-    <string name="delivered">Delivered</string>
+    <string name="read">읽은 이</string>
+    <string name="delivered">송신 여부</string>
     <string name="file_name_will_come_here_for_attachment">File name will come here for attachment.</string>
     <string name="mb_10">10 MB</string>
     <string name="mobile_number">mobile number</string>
