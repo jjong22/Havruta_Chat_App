@@ -28,14 +28,14 @@ Dialogflow를 활용하여 챗봇을 만드는 과정은 생각보다 어렵지 
 동빈나 - https://www.youtube.com/watch?v=WLUEghtVS9k&list=PLRx0vPvlEmdCb33sBZGXzVOMY_seqnWJT   
 구글 클라우드 가이드 - https://cloud.google.com/dialogflow/docs   
 
-그 다음은 제작한 챗봇을 연동할 차례입니다.   
-Dialogflow에서 제공하는 연동 기능을 사용하려 했지만, 저희는 그 방법에 어려움을 겪어 Kommunicate앱을 사용하여 연동하였습니다.   
+그 다음은 제작한 챗봇을 연동할 차례입니다.      
+Dialogflow에서 제공하는 연동 기능을 사용하려 했지만, 저희는 그 방법에 어려움을 겪어 Kommunicate앱을 사용하여 연동하였습니다.      
 
-<img width="959" alt="키 연동" src="https://user-images.githubusercontent.com/61818473/139841487-4917c878-d8e7-4959-aaf0-74acf943b6da.PNG">   
-먼저 구글 클라우드를 사용할 수 있는 결제 정보를 입력한 계정이 필요합니다.   
-그 다음 <IAM 및 관리자> 창에 있는 "IAM"에서 제작한 챗봇, Dialogflow에 접근할 수 있는 관리자 계정을 추가합니다.   
-그리고, 위 사진처럼 "서비스 계정"에서 키를 발급받습니다.   
-** 키를 발급하면 .json 형태의 파일로 다운로드가 됩니다. 발급 받은 키를 분실하지 않도록 합시다! **   
+<img width="959" alt="키 연동" src="https://user-images.githubusercontent.com/61818473/139841487-4917c878-d8e7-4959-aaf0-74acf943b6da.PNG">      
+먼저 구글 클라우드를 사용할 수 있는 결제 정보를 입력한 계정이 필요합니다.      
+그 다음 <IAM 및 관리자> 창에 있는 "IAM"에서 제작한 챗봇, Dialogflow에 접근할 수 있는 관리자 계정을 추가합니다.      
+그리고, 위 사진처럼 "서비스 계정"에서 키를 발급받습니다.      
+** 키를 발급하면 .json 형태의 파일로 다운로드가 됩니다. 발급 받은 키를 분실하지 않도록 합시다! **      
 
 자세한 내용은 다음 글을 참고해 주세요!   
 https://naulsnow.tistory.com/7   
