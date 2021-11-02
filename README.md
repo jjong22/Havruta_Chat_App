@@ -56,5 +56,6 @@ Kommunicate SDK - https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK
   
 저희의 연구가 챗봇을 제작해 보고 싶은 사람들에게 도움이 되었으면 좋겠습니다!!   
 감사합니당   
-[culture](https://user-images.githubusercontent.com/61818473/139842912-eda46a16-ef5c-42d9-a93b-b7659e2f4b38.jpg)   
+  
+![다운로드](https://user-images.githubusercontent.com/61818473/139843723-499fb859-f777-42c9-8653-85e726f86d24.jpg)
 
