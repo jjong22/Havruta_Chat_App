@@ -1,5 +1,5 @@
 # Havruta_Chat_App
-안녕하세요! 세마고등학교 Maker 프로젝트 팀 PathFinder 입니다.
+안녕하세요! 세마고등학교 Maker 프로젝트 팀 PathFinder 입니다. \n
 이 앱은 저희가 만든 챗봇을 Kommunicate SDK와 연동하여 만든 앱입니다.
 챗봇에게 질문하며 복습할 수 있게 만들어진 챗봇 앱입니다.
 
